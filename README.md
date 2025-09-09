@@ -177,7 +177,3 @@ Mean F-Measure: 81.70%
 - สามารถปรับค่า k ใน KNN ได้ โดยค่าดีฟอลต์คือ k=3
 - ค่า random seed ถูกตั้งไว้ที่ 42 เพื่อให้ผลลัพธ์ทำซ้ำได้ (reproducibility)
 - อย่าลืมแทนที่ `"Dataset path learning floor matrix task.csv"` ด้วย path จริงของชุดข้อมูลคุณ
-
-```
-
-```
